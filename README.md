@@ -17,5 +17,5 @@ yarn dev
 npm run dev
 ```
 
-El curso que se realizo es de Fernando Herrera: [Principios SOLID y Clean Code]('https://www.udemy.com/course/solid-clean/')
+El curso que se realizo es de Fernando Herrera: [Principios SOLID y Clean Code](https://www.udemy.com/course/solid-clean/)
 
